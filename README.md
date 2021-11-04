@@ -8,7 +8,7 @@ I strive in a rigorous setting, and confront coding challenges with a persistant
 
 ## Projects  🌐
 
-**GradeFruit** - [Backend Repo](https://github.com/sshearer101/GradeFruit-Backend) | [Frontend Repo](https://github.com/sshearer101/GradeFruit-Frontend)
+**GradeFruit** - [Backend Repo](https://github.com/sshearer101/GradeFruit-Backend) | [Frontend Repo](https://github.com/sshearer101/GradeFruit-Frontend) /
  📚 An interactive education website where students and teachers can track data from classes to grades to assignments.
 
 **E-Roster**- Github | Demo 
