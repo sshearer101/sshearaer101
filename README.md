@@ -22,3 +22,8 @@ I strive in a rigorous setting, and confront coding challenges with a persistant
 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />](https://www.linkedin.com/in/sam-shearer-101/)
+
+## Skills  💻
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" />
+
