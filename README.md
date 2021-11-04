@@ -16,3 +16,9 @@ I strive in a rigorous setting, and confront coding challenges with a persistant
 
 **FlatIron Grid** - [Backend Repo](https://github.com/sshearer101/Fantasy-Football-Backend) | [Frontend Repo](https://github.com/sshearer101/Fantasy-Football-Frontend) | [Demo](https://www.youtube.com/watch?v=A0gZVT0HeIw&t=73s) <br/> 
  🏈 A single webpage application that allows the user to create fantasy football teams from their favorite players.
+
+
+## Get in Touch  📧
+
+
+[Backend Repo](<i class="devicon-linkedin-plain-wordmark colored"></i>)
