@@ -21,4 +21,4 @@ I strive in a rigorous setting, and confront coding challenges with a persistant
 ## Get in Touch  📧
 
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="5" height="5" />](https://www.linkedin.com/in/sam-shearer-101/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100" />](https://www.linkedin.com/in/sam-shearer-101/)
