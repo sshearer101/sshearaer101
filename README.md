@@ -8,11 +8,11 @@ I strive in a rigorous setting, and confront coding challenges with a persistant
 
 ## Projects  🌐
 
-**GradeFruit** - Frontend Github | Backend Github | Demo 
-An interactive education website where students and teachers can track data from classes to grades to assignments.
+**GradeFruit** - [https://github.com/sshearer101/GradeFruit-Backend ](url) 
+ 📚 An interactive education website where students and teachers can track data from classes to grades to assignments.
 
 **E-Roster**- Github | Demo 
-A first educational website for teachers to keep track of their students and schedules.
+ 🍎 A first educational website for teachers to keep track of their students and schedules.
 
 **FlatIron Grid** - Frontend Github  |  Backend Github | Demo 
-A single webpage application that allows the user to create fantasy football teams from their favorite players.
+ 🏈 A single webpage application that allows the user to create fantasy football teams from their favorite players.
