@@ -21,4 +21,5 @@ I strive in a rigorous setting, and confront coding challenges with a persistant
 ## Get in Touch  📧
 
 
-[Backend Repo](<i class="devicon-linkedin-plain-wordmark colored"></i>)
+[<i class="devicon-linkedin-plain colored"></i>
+](https://www.linkedin.com/in/sam-shearer-101/)
